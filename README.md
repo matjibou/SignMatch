@@ -7,9 +7,9 @@ Förberedelser
 2. Installera nödvändiga bibliotek (i kommandotolk / terminal): pip install pandas openpyxl xlsxwriter rapidfuzz
 
 Filförberedelser
-1. Exportera data till Excel från MCSS och TES för samma tidsspann.
+1. Exportera data till Excel från MCSS och TES för ett bestämt tidsspann.
 2. Placera de två filer i samma mapp som SignMatch_v4_23.py:
-- MCSS.xlsx – utdrag ur MCSS
+- MCSS.xlsx – export från MCSS
 - TES.xlsx – export från TES
 
 Kör du programmet
